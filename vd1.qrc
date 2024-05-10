@@ -1,0 +1,13 @@
+<RCC>
+  <qresource prefix="pic">
+    <file>bang-trang-khung-nhom-nep-nho.webp</file>
+    <file>mau-khung-hinh-nen-co-dien_022126362.jpg</file>
+    <file>top-10-khung-hinh-trang-dep-nhat-1.jpg</file>
+    <file>1907_khung-anh-ppt-dep3.jpg</file>
+    <file>pngtree-vietnam-flag-border-background-picture-image_1177640.jpg</file>
+    <file>pngtree-yellow-clothing-promotion-background-design-picture-image_1145330.jpg</file>
+  </qresource>
+  <qresource prefix="newPrefix">
+    <file>kisspng-clip-art-portable-network-graphics-picture-frames-flourishes-fancy-transparent-amp-png-clipart-fre-5cdef4e48fe702.7201963715581155565894.jpg</file>
+  </qresource>
+</RCC>
